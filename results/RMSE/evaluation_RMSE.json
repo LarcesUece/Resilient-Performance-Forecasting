@@ -1,0 +1,167 @@
+{
+    "interpolacao-linear - preenchido bbr esmond data pa-ba 06-10-2023.csv, GRU": {
+        "RMSE": 49.1656595492494
+    },
+    "interpolacao-linear - preenchido bbr esmond data pa-ba 06-10-2023.csv, LSTM": {
+        "RMSE": 50.895106296664906    },
+    "interpolacao-linear - preenchido bbr esmond data pr-am 06-10-2023.csv, GRU": {
+        "RMSE": 52.50641457599563    },
+    "interpolacao-linear - preenchido bbr esmond data pr-am 06-10-2023.csv, LSTM": {
+        "RMSE": 57.91710657864799    },
+    "interpolacao-linear - preenchido cubic esmond data pa-ba 06-10-2023.csv, GRU": {
+        "RMSE": 163.7536402553969    },
+    "interpolacao-linear - preenchido cubic esmond data pa-ba 06-10-2023.csv, LSTM": {
+        "RMSE": 164.4494189110069
+    },
+    "interpolacao-linear - preenchido cubic esmond data pr-am 06-10-2023.csv, GRU": {
+        "RMSE": 153.66803814945033
+    },
+    "interpolacao-linear - preenchido cubic esmond data pr-am 06-10-2023.csv, LSTM": {
+        "RMSE": 162.69739049003394
+    },
+    "interpolacao-ponderada-no-tempo - preenchido bbr esmond data pa-ba 06-10-2023.csv, GRU": {
+        "RMSE": 52.38775274224997
+    },
+    "interpolacao-ponderada-no-tempo - preenchido bbr esmond data pa-ba 06-10-2023.csv, LSTM": {
+        "RMSE": 55.78303733224283    },
+    "interpolacao-ponderada-no-tempo - preenchido bbr esmond data pr-am 06-10-2023.csv, GRU": {
+        "RMSE": 55.06948660064913    },
+    "interpolacao-ponderada-no-tempo - preenchido bbr esmond data pr-am 06-10-2023.csv, LSTM": {
+        "RMSE": 74.31962323879492    },
+    "interpolacao-ponderada-no-tempo - preenchido cubic esmond data pa-ba 06-10-2023.csv, GRU": {
+        "RMSE": 175.89307412148727
+    },
+    "interpolacao-ponderada-no-tempo - preenchido cubic esmond data pa-ba 06-10-2023.csv, LSTM": {
+        "RMSE": 176.86160547860595
+    },
+    "interpolacao-ponderada-no-tempo - preenchido cubic esmond data pr-am 06-10-2023.csv, GRU": {
+        "RMSE": 164.41382170604524
+    },
+    "interpolacao-ponderada-no-tempo - preenchido cubic esmond data pr-am 06-10-2023.csv, LSTM": {
+        "RMSE": 170.3672672069017
+    },
+    "knn - preenchido bbr esmond data pa-ba 06-10-2023.csv, GRU": {
+        "RMSE": 58.27211696536066
+    },
+    "knn - preenchido bbr esmond data pa-ba 06-10-2023.csv, LSTM": {
+        "RMSE": 61.56397645649821
+    },
+    "knn - preenchido bbr esmond data pr-am 06-10-2023.csv, GRU": {
+        "RMSE": 48.33095806190989    },
+    "knn - preenchido bbr esmond data pr-am 06-10-2023.csv, LSTM": {
+        "RMSE": 52.711638955652504    },
+    "knn - preenchido cubic esmond data pa-ba 06-10-2023.csv, GRU": {
+        "RMSE": 170.99390286197323
+    },
+    "knn - preenchido cubic esmond data pa-ba 06-10-2023.csv, LSTM": {
+        "RMSE": 171.44232686161416    },
+    "knn - preenchido cubic esmond data pr-am 06-10-2023.csv, GRU": {
+        "RMSE": 134.92555840787026    },
+    "knn - preenchido cubic esmond data pr-am 06-10-2023.csv, LSTM": {
+        "RMSE": 139.15808080068922  },
+    "media-dia-repetido - preenchido bbr esmond data pa-ba 06-10-2023_media_original.csv, GRU": {
+        "RMSE": 152.22036556099667    },
+    "media-dia-repetido - preenchido bbr esmond data pa-ba 06-10-2023_media_original.csv, LSTM": {
+        "RMSE": 162.4321134663086    },
+    "media-dia-repetido - preenchido bbr esmond data pr-am 06-10-2023_media_original.csv, GRU": {
+        "RMSE": 32.678836788627684    },
+    "media-dia-repetido - preenchido bbr esmond data pr-am 06-10-2023_media_original.csv, LSTM": {
+        "RMSE": 34.88106176364142   },
+    "media-dia-repetido - preenchido cubic esmond data pa-ba 06-10-2023_media_original.csv, GRU": {
+        "RMSE": 160.69764390313782
+    },
+    "media-dia-repetido - preenchido cubic esmond data pa-ba 06-10-2023_media_original.csv, LSTM": {
+        "RMSE": 172.0172232720437
+    },
+    "media-dia-repetido - preenchido cubic esmond data pr-am 06-10-2023_media_original.csv, GRU": {
+        "RMSE": 195.9349634697742    },
+    "media-dia-repetido - preenchido cubic esmond data pr-am 06-10-2023_media_original.csv, LSTM": {
+        "RMSE": 206.45457501500948    },
+    "media-dia-repetido - vazao_ce_sp_bbr_original.csv, GRU": {
+        "RMSE": 8.998774040166003    },
+    "media-dia-repetido - vazao_ce_sp_bbr_original.csv, LSTM": {
+        "RMSE": 30.25271591688055    },
+    "media-dia-repetido - vazao_mg_rs_bbr_original.csv, GRU": {
+        "RMSE": 986.6807109561871    },
+    "media-dia-repetido - vazao_mg_rs_bbr_original.csv, LSTM": {
+        "RMSE": 1009.9539440221018    },
+    "media-dia-repetido - vazao_pa_ba_bbr_original.csv, GRU": {
+        "RMSE": 135.45530024177222    },
+    "media-dia-repetido - vazao_pa_ba_bbr_original.csv, LSTM": {
+        "RMSE": 142.33470908383538    },
+    "media-dia-repetido - vazao_pr_am_bbr_original.csv, GRU": {
+        "RMSE": 8.898736604085716    },
+    "media-dia-repetido - vazao_pr_am_bbr_original.csv, LSTM": {
+        "RMSE": 17.169225650418593
+    },
+    "media-dia-repetido - vazao_rr_rs_bbr_original.csv, GRU": {
+        "RMSE": 150.59816236308185
+    },
+    "media-dia-repetido - vazao_rr_rs_bbr_original.csv, LSTM": {
+        "RMSE": 170.7677673851132
+    },
+    "media-movel - preenchido bbr esmond data pa-ba 06-10-2023.csv, GRU": {
+        "RMSE": 262.62576432998407
+    },
+    "media-movel - preenchido bbr esmond data pa-ba 06-10-2023.csv, LSTM": {
+        "RMSE": 266.2307921843741
+    },
+    "media-movel - preenchido bbr esmond data pr-am 06-10-2023.csv, GRU": {
+        "RMSE": 272.9153155596536
+    },
+    "media-movel - preenchido bbr esmond data pr-am 06-10-2023.csv, LSTM": {
+        "RMSE": 277.6470907717322
+    },
+    "media-movel - preenchido cubic esmond data pa-ba 06-10-2023.csv, GRU": {
+        "RMSE": 262.497759104749
+    },
+    "media-movel - preenchido cubic esmond data pa-ba 06-10-2023.csv, LSTM": {
+        "RMSE": 266.94066414611785    },
+    "media-movel - preenchido cubic esmond data pr-am 06-10-2023.csv, GRU": {
+        "RMSE": 273.14412403717637
+    },
+    "media-movel - preenchido cubic esmond data pr-am 06-10-2023.csv, LSTM": {
+        "RMSE": 278.01698849993295    },
+    "mediana-movel - preenchido bbr esmond data pa-ba 06-10-2023.csv, GRU": {
+        "RMSE": 55.569133774622046
+    },
+    "mediana-movel - preenchido bbr esmond data pa-ba 06-10-2023.csv, LSTM": {
+        "RMSE": 57.632766506417205
+    },
+    "mediana-movel - preenchido bbr esmond data pr-am 06-10-2023.csv, GRU": {
+        "RMSE": 48.386553763573836
+    },
+    "mediana-movel - preenchido bbr esmond data pr-am 06-10-2023.csv, LSTM": {
+        "RMSE": 66.07008095869932
+    },
+    "mediana-movel - preenchido cubic esmond data pa-ba 06-10-2023.csv, GRU": {
+        "RMSE": 251.11487261984317
+    },
+    "mediana-movel - preenchido cubic esmond data pa-ba 06-10-2023.csv, LSTM": {
+        "RMSE": 251.0682412804039
+    },
+    "mediana-movel - preenchido cubic esmond data pr-am 06-10-2023.csv, GRU": {
+        "RMSE": 142.06825842659518    },
+    "mediana-movel - preenchido cubic esmond data pr-am 06-10-2023.csv, LSTM": {
+        "RMSE": 146.0794000239728    },
+    "multi-time - preenchido bbr esmond data pa-ba 06-10-2023.csv, GRU": {
+        "RMSE": 71.39282942331853   },
+    "multi-time - preenchido bbr esmond data pa-ba 06-10-2023.csv, LSTM": {
+        "RMSE": 74.58359229944364
+    },
+    "multi-time - preenchido bbr esmond data pr-am 06-10-2023.csv, GRU": {
+        "RMSE": 61.264648721976286    },
+    "multi-time - preenchido bbr esmond data pr-am 06-10-2023.csv, LSTM": {
+        "RMSE": 70.97161540174807    },
+    "multi-time - preenchido cubic esmond data pa-ba 06-10-2023.csv, GRU": {
+        "RMSE": 173.59154270299686
+    },
+    "multi-time - preenchido cubic esmond data pa-ba 06-10-2023.csv, LSTM": {
+        "RMSE": 174.35220543020205
+    },
+    "multi-time - preenchido cubic esmond data pr-am 06-10-2023.csv, GRU": {
+        "RMSE": 146.73903713656063   },
+    "multi-time - preenchido cubic esmond data pr-am 06-10-2023.csv, LSTM": {
+        "RMSE": 154.57829302166365
+    }
+}
