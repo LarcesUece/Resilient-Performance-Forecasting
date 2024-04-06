@@ -28,3 +28,40 @@ This project developed a solution that collects MonIpê monitoring data, identif
 - Silvio Eduardo Sales de Britto R. [Curriculum Lattes](http://lattes.cnpq.br/7251244319067731)
 - Francisco Valderlan Jorge Nobre [Curriculum Lattes](http://lattes.cnpq.br/8242344331454843)
 - Thelmo Pontes de Araujo [Curriculum Lattes](http://lattes.cnpq.br/3978299887398475)
+
+## Installation and Usage
+
+1. Clone this repository to your local machine using the following command:
+
+   ```
+   git clone https://github.com/LarcesUece/UECE-RNP-PMon-2023.git
+   ```
+   
+2. Install the necessary dependencies:
+
+   ```
+   pip3 install -r requirements.txt
+   ```
+## Folders
+
+### Data-collection-api 
+- Shows the script "new_base_to_api" for collecting data from MonIpê base through the Esmond API.
+
+### Datasets 
+- Shows every data that was collected and the ones that was used in the project: 
+- filled-data: datasets filled with data by imputation techniques and missing values analysis.
+- original-data: raw data collected from API Esmond.
+- pre-processed-data: datasets affter preliminary war data missing values analysis.
+
+### Forecasting-model 
+- Folder with the forecasting model and the hyperparams used.
+- forecasting-model: notebook with the core of the forecasting model, function, libs
+- hyperparams-set: hyperparams used in the model training.
+
+### Results
+- Results of forecasting
+- forecasting-results: figures of the generalization capability of the model and comparision data of test and real data for each ML model (GRU and LSTM) and each imputation technique.
+- RMSE: shows the values of RMSE for each model and missing data imputation technique.
+
+### Scripts
+- Several scripts of data analysis and imputation analysis.
