@@ -34,7 +34,7 @@ This project developed a solution that collects MonIpê monitoring data, identif
 1. Clone this repository to your local machine using the following command:
 
    ```
-   git clone https://github.com/LarcesUece/UECE-RNP-PMon-2023.git
+   git clone github.com/LarcesUece/Resilient-Performance-Forecasting.git
    ```
    
 2. Install the necessary dependencies:
