@@ -55,7 +55,7 @@ This project developed a solution that collects MonIpê monitoring data, identif
 
 ### Forecasting-model 
 - Folder with the forecasting model and the hyperparams used.
-- forecasting-model: notebook with the core of the forecasting model, function, libs
+- forecasting-model: notebook with the core of the forecasting model, function, libs and graphics.
 - hyperparams-set: hyperparams used in the model training.
 
 ### Results
